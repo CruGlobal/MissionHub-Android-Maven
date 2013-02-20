@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.greenrobot.dao</groupId>
+  <artifactId>greenDAO</artifactId>
+  <versioning>
+    <release>1.2.0-MH</release>
+    <versions>
+      <version>1.2.0-MH</version>
+    </versions>
+    <lastUpdated>20130220172553</lastUpdated>
+  </versioning>
+</metadata>
